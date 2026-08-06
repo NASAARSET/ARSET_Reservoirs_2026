@@ -4,7 +4,9 @@
 # NASA Earth Observations for Reservoir and Water Utility Management
 This repository contains JavaScript code and presentations (PDF) for the ARSET training "NASA Earth Observations for Reservoir and Water Utility Management" as presented in July-August of 2026.
 
-You can find six JavaScript files within the ```code``` directory.
+You will find six JavaScript files within the ```code``` directory.
+
+You will find presentations for each part of the training in the ```presentations``` directory. 
 
 **Note**: to use the code for your own area of interest, you will need to edit the dates and river basin ID. Comments are provided in the scripts on how to do so.
 
