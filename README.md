@@ -3,7 +3,7 @@
 
 
 # NASA Earth Observations for Reservoir and Water Utility Management
-This repository contains JavaScript code and presentations (PDF) for the ARSET training "NASA Earth Observations for Reservoir and Water Utility Management" as presented in July-August of 2026.
+This repository contains JavaScript code and presentations (PDF) for the ARSET training "NASA Earth Observations for Reservoir and Water Utility Management" as presented in August 2026.
 
 You will find six JavaScript files within the ```code``` directory.
 
