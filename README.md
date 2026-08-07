@@ -1,5 +1,5 @@
 </p>
-<img width="725" height="544" alt="arset-2026-reservoirs-th" src="https://github.com/user-attachments/assets/a5eb4930-cc5a-427c-a3db-c10c70b848bc" />
+<img width="544" height="408" alt="arset-2026-reservoirs-th" src="https://github.com/user-attachments/assets/a5eb4930-cc5a-427c-a3db-c10c70b848bc" />
 
 
 # NASA Earth Observations for Reservoir and Water Utility Management
